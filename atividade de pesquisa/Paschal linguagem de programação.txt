@@ -1,0 +1,21 @@
+Nome: João Henrique
+
+Paschal linguagem de programação 
+
+
+Fácil de aprender (verbosidade)
+
+	É um linguagem de alto nível (verbosidade), ela foi criada em 1970 por Niklaus Wirth. O objetivo era para ser uma ferramenta educacional para ensinar programação estruturada. E sim ela é uma linguagem fácil para iniciantes pois foi criada para ser próxima a linguagem natural. 
+
+Mercado, salario, quantidade, quais empresas?
+
+	Como foi mencionado ela é um linguagem com o objetivo educacional, então infelizmente ela é considerada obsoleta pelos desenvolvedores no mercado atual. No entanto, sua versão evoluída, o Object Pascal, ainda é utilizada em ambientes corporativos, especialmente com o uso de IDEs como o Embarcadero Delphi e o Free Pascal (usado no Lazarus). 
+
+comunidade, exemplo, documentação boa?
+
+	A comunidade de Pascal é um pouco pequena em comparação com linguagens modernas, mas ainda existe, principalmente em torno de seu uso didático, manutenção de sistemas legados e projetos específicos como Delphi e Free Pascal. Sim a documentação da linguagem Pascal está fortemente ligada às suas implementações modernas, principalmente o Free Pascal Compiler (FPC) e o Delphi: 
+
+
+Quais paradigmas existem? biblioteca, frameworks, o que pode ser feito?
+
+Pascal é uma linguagem de programação que segue principalmente o paradigma imperativo e o estruturado. Posteriormente, com a evolução da linguagem, foi adicionado suporte ao paradigma orientado a objetos. Pascal não tem um "framework" no sentido moderno como outras linguagens, mas possui ambientes de desenvolvimento integrados (IDEs) como Lazarus e Delphi

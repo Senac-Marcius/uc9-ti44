@@ -1,0 +1,48 @@
+1) Transformar Nome do auto em citação
+
+Pergunte ao usuário o nome e depois o sobrenome, e mostre 
+na saida a citação
+
+Exemplo:
+Qual o primeiro nome: mArcIus
+Qual o sobrenome: lEaNdRo
+Saída: Citação L. Marcius
+
+Método útil: toUpperCase() e toLowerCase()
+
+2) Calculadora Simples (Soma)
+
+Peça ao usuário dois números e exiba a soma.
+
+Exemplo:
+Perguntar "Digite o primeiro número:"
+Perguntar "Digite o segundo número:"
+Exibir: "A soma entre X + Y = Z."
+
+3) Substituir Palavras
+
+Peça ao usuário digitar uma frase contendo a palavra "startup" e substitua por "empresa".
+
+Exemplo:
+Entrada: Estou montando uma startup de tecnologia
+Saída: Estou montando uma empresa de tecnologia
+
+Método útil: replace("busca", "troca")
+
+4) Converter Número para Dobro
+
+Pergunte um número ao usuário, converta com Number(), e mostre o dobro.
+
+Exemplo:
+Entrada: 7
+Saída: O dobro é 14.
+
+5) Contar Caracteres da Frase
+
+Peça ao usuário uma frase e mostre quantos caracteres ela tem.
+
+Exemplo:
+Entrada: "Shinier acelera startups"
+Saída: "Sua frase tem 26 caracteres."
+
+Método útil: .length

@@ -1,0 +1,28 @@
+/*
+    um programa que verifica se a pessoa colocou saldo
+    maior do 5 e apertou o número 42, se for verdade
+    de para ele uma coca-cola, se não mande-o embora e 
+    devolva o dinheiro
+*/
+
+/*
+    um programa que verifica se a pessoa colocou a senha
+    "senac123" ou  se ela tem a chave para abrir a porta
+*/
+
+/*
+    um programa que verifica se número é impar ou par
+*/
+
+/*
+    um programa que pergunta se a pessoa que ganhar um
+    presente misterioso, se ela dizer "sim" fala
+    ganhou um abraço, se ela dizer não fala ela ganhou
+    50 reais
+*/
+
+/*
+    um programa que pede 3 número, valida se os números
+    são validos, e formam um triangulo, se for um triangulo
+    diz se ele é equilatero, isoceles, ou escaleno
+*/
